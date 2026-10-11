@@ -118,8 +118,7 @@ window.addEventListener('DOMContentLoaded', function() {
         .new-ultimate-required {display: none !important; }
         .main-layout.sticky-header-mobile .header-notifications {display: none !important; }
         .login-form__field-error {display: none !important; }
-
-
+        .model-wizard .modal-wizard-footer {display: none !important; }
 
 
 
