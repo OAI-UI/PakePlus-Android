@@ -122,8 +122,7 @@ window.addEventListener('DOMContentLoaded', function() {
 [class*="BannersCarousel"] { display: none !important; }
 [class*="view-cam-header__controls"]  { display: none !important; }
 [class*="ContestRulesPage__wiki"] { display: none !important; }
-
-
+[class*="PlasmaStreamingAppButton"]  { display: none !important; }
 
 
         
