@@ -119,7 +119,9 @@ window.addEventListener('DOMContentLoaded', function() {
         .main-layout.sticky-header-mobile .header-notifications {display: none !important; }
         .login-form__field-error {display: none !important; }
         .model-wizard .modal-wizard-footer {display: none !important; }
-
+[class*="BannersCarousel"] { display: none !important; }
+[class*="view-cam-header__controls"]  { display: none !important; }
+[class*="ContestRulesPage__wiki"] { display: none !important; }
 
 
 
